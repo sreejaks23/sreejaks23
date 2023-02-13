@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
 - ⚡ I speak 4 languages ( English, Tamil, Malayalam)
-- 📝 https://www.linkedin.com/in/sreeja-k-sarojam-841883a8/) 
+- 📝 https://www.linkedin.com/in/sreeja-k-sarojam-841883a8/
