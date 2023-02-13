@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 -->
+![This is an image](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif)
+
 - 🌱 I’m currently learning React & Redux
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
