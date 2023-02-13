@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 - 🌱 I’m currently learning React & Redux
-
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
 - ⚡ I speak 4 languages ( English, Tamil, Malayalam)
-- [](https://icons8.com/icon/13930/linkedin)
-- ![image](https://www.linkedin.com/in/sreeja-k-sarojam-841883a8/)
- 
+- 📝 https://www.linkedin.com/in/sreeja-k-sarojam-841883a8/) 
