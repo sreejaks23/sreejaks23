@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React & Redux
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
-- ⚡ I speak 4 languages ( English, Tamil, Malayalam)
+- ⚡ I speak 3 languages ( English, Tamil, Malayalam)
 - 📝 https://www.linkedin.com/in/sreeja-k-sarojam-841883a8/
