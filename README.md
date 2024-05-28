@@ -1,6 +1,6 @@
 ### Hello World, I'm Sreeja 👋
 
-#### I'm a Wife, Mother, Developer, Creator, and Mentor!!      ![This is an image](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif)
+#### I'm a Mother, Developer, Creator, and Mentor!!      ![This is an image](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif)
 
 <!--
 **sreejaks23/sreejaks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
