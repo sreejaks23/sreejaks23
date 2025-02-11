@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning React & Redux
+- 🌱 I’m currently learning Azure
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...She/Her
 - ⚡ I speak 3 languages ( English, Tamil, Malayalam)
