@@ -5,7 +5,7 @@
 ## 👋 Hello, I'm Sreeja!  
 I'm a passionate **Full-Stack Developer** with over **5 years of experience** in building scalable and user-friendly applications. I love solving problems and constantly seek new challenges to grow as a developer.  
 
-💡 **Currently Exploring:** Cybersecurity & IT Solutions 🚀  
+💡 **Currently Exploring:** Microsoft Certified: Azure Developer Associate 🚀  
 
 ---
 
@@ -25,7 +25,7 @@ I'm a passionate **Full-Stack Developer** with over **5 years of experience** in
 📈 A full-stack budgeting app using **.NET & SQL Server** for detailed financial analysis.  
 
 ### 🌐 [My Portfolio](https://github.com/sreejaks23/my-portfolio)  
-🎖   
+🎖   https://sreeja-fullstack.vercel.app/
 
 ---
 
