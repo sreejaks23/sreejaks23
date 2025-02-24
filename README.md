@@ -18,14 +18,14 @@ I'm a passionate **Full-Stack Developer** with over **5 years of experience** in
 
 ## 📌 Featured Projects  
 
-### 📊 [Expense Tracker Master](https://github.com/yourusername/expense-tracker-master)  
+### 📊 [Expense Tracker Master](https://github.com/sreejaks23/expense-tracker-master)  
 💰 A personal finance tracker built with **React** to manage daily expenses efficiently.  
 
-### 📂 [PersonalFinanceTracker](https://github.com/yourusername/personal-finance-tracker)  
+### 📂 [PersonalFinanceTracker](https://github.com/sreejaks23/investment-calculator)  
 📈 A full-stack budgeting app using **.NET & SQL Server** for detailed financial analysis.  
 
-### 🌐 [Falklands War Heritage Centre](https://github.com/yourusername/falklands-war-heritage)  
-🎖 A volunteer web development project to preserve war history.  
+### 🌐 [My Portfolio](https://github.com/sreejaks23/my-portfolio)  
+🎖   
 
 ---
 
@@ -38,8 +38,8 @@ I'm a passionate **Full-Stack Developer** with over **5 years of experience** in
 
 ## 📫 Connect with Me  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)  
-📧 Email: your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sreeja-k-sarojam-841883a8/)  
+📧 Email: sreeja6656@gmail.com 
 
 ---
 
