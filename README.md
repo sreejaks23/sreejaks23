@@ -1,4 +1,4 @@
-# 🚀 Sreeja K Sarojam | Full-Stack Developer  
+# 🚀 Sreeja K S | Full-Stack Developer  
 
 ![GitHub Banner](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif) <!-- Optional: Add a banner image -->
 
