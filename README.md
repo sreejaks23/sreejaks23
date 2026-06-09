@@ -5,14 +5,50 @@
 ## 👋 Hello, I'm Sreeja!  
 I'm a passionate **Full-Stack Developer** with over **5 years of experience** in building scalable and user-friendly applications. I love solving problems and constantly seek new challenges to grow as a developer.  
 
-💡 **Currently Exploring:** Microsoft Certified: Azure Developer Associate 🚀  
+
 
 ---
+## 💻 Tech Stack
 
-## 💻 Tech Stack  
-- 🖥 **Frontend:** HTML, CSS, JavaScript, React  
-- ⚙ **Backend:** C#, .NET, SQL Server  
-- 🛠 **Tools:** Git, Agile, Azure, CI/CD  
+### 🎨 Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Tailwind CSS
+
+### ⚙ Backend
+- Node.js
+- Express.js
+- C#
+- .NET
+- REST APIs
+
+### 🗄 Databases
+- MongoDB
+- MySQL
+- SQL Server
+
+### 🤖 AI & Machine Learning
+- AI-Powered Applications
+- Retrieval-Augmented Generation (RAG)
+- MERN + AI Integration
+- Prompt Engineering
+- OpenAI APIs / LLM Applications
+
+### 🛠 Tools & DevOps
+- Git & GitHub
+- Azure
+- CI/CD
+- Agile / Scrum
+- Postman
+- VS Code
+
+### 🚀 Full-Stack Development
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- TypeScript Full-Stack Applications
+- RESTful API Development
 
 ---
 
